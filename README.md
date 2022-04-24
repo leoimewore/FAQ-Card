@@ -1,6 +1,11 @@
 # FAQ-Card
 
 
+
+![image](https://user-images.githubusercontent.com/95531716/164950469-9f0d0df3-b8a0-4512-abbc-85d90684f80c.png)
+
+
+
 This is a Front End Mentor Project and I use Event listener DOM functions to design an FAQ drop down design
 
 Methodology
